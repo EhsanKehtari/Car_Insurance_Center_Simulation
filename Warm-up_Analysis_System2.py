@@ -4,8 +4,8 @@ Normal and moving average for outside, documentation, departure and inspection u
 collectively decide on the instance system 2 enters warm state.
 
 Authors:
-1. Roxana Khabbaz Zadeh Moghaddam
-2. Ehsan Kehtari
+1. Ehsan Kehtari
+2. Roxana Khabbaz Zadeh Moghaddam
 
 Date: 08/03/2023
 """
