@@ -56,7 +56,7 @@ Alternative System 2:
 - The complaint probability is set to zero since complaints are handled externally.
 - The warm-up period takes around 67 days.
 
-
+![system2](sys2.png)
 
 The independent sampling method's comparison results show that the second alternative outperforms the first in almost all aspects.
 
