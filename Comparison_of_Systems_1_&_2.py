@@ -11,8 +11,8 @@ based on following performance measures:
 Finally, the superior system design in each category is introduced.
 
 Authors:
-1. Roxana Khabbaz Zadeh Moghaddam
-2. Ehsan Kehtari
+1. Ehsan Kehtari
+2. Roxana Khabbaz Zadeh Moghaddam
 
 Date: 08/03/2023
 """
