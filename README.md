@@ -46,7 +46,7 @@ Alternative System 1:
 - Removes the 6 PM closure event since the system runs 24/7.
 - The warm-up period is analyzed by plotting queue lengths over time. The system reaches a steady state after around 55 days.
 
-![system1](RackMultipart20231009-1-p6nxpp_html_77816158028b87e2.png) ![system2](RackMultipart20231009-1-p6nxpp_html_99c88e46ab944850.png)
+![sys1](sys1.png)
 
 Alternative System 2:
 
@@ -56,11 +56,11 @@ Alternative System 2:
 - The complaint probability is set to zero since complaints are handled externally.
 - The warm-up period takes around 67 days.
 
-![](RackMultipart20231009-1-p6nxpp_html_e3752cbe37f2df93.png) ![](RackMultipart20231009-1-p6nxpp_html_99c88e46ab944850.png)
+![sys2](sys2.png)
 
 The independent sampling method's comparison results show that the second alternative outperforms the first in almost all aspects.
 
-![](RackMultipart20231009-1-p6nxpp_html_b899ff8a22d38327.png)
+![per](per.png)
 
 Nevertheless, the efficacy of these changes remains questioned since, in reality, many factors influence the load on the insurance center, such as increased demand, unique accident circumstances, lengthy and complicated identification of fraudulent claims, creation of new bottlenecks, change in laws and conditions and other unexpected events. These happenstances can contribute to system saturation and congestion, prolonging queue lengths and waiting times despite improvement policies.
 
