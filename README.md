@@ -46,7 +46,7 @@ Alternative System 1:
 - Removes the 6 PM closure event since the system runs 24/7.
 - The warm-up period is analyzed by plotting queue lengths over time. The system reaches a steady state after around 55 days.
 
-![](RackMultipart20231009-1-p6nxpp_html_77816158028b87e2.png) ![](RackMultipart20231009-1-p6nxpp_html_99c88e46ab944850.png)
+![system1](RackMultipart20231009-1-p6nxpp_html_77816158028b87e2.png) ![system2](RackMultipart20231009-1-p6nxpp_html_99c88e46ab944850.png)
 
 Alternative System 2:
 
