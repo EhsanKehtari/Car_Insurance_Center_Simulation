@@ -1,4 +1,4 @@
-# **Simulation of an insurance claim center**
+# **Simulation of a car insurance center**
 
 ## **Abstract**
 
